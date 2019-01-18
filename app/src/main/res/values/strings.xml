@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VoiceSearch</string>
+    <string name="id_speak">Speak</string>
 </resources>
